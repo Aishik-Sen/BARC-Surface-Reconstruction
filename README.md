@@ -1,2 +1,2 @@
 # BARC-Surface-Reconstruction
-My work  at Bhabha Atomic Reasearch Center
+A repository displaying my work at Bhabha Atomic Research Center. I worked on making a point cloud representation out of 2D RGB images and converting it into ply files containing all the mathematical details of the object in image. After this multiple algorithms were used to construct a 3D mesh out of the .ply files such as Poisson Surface Reconstruction, Delaunay Triangulation and Ball Pivot Algorithm. A comprehensive analysis of each approach was done and were compared against each other. The dataset used was the NYU Depth V2 dataset.
